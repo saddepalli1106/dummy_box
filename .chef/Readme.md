@@ -1,0 +1,1 @@
+Place here the private keys and knife.rb from Opscode
